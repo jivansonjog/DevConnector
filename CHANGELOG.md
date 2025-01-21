@@ -1,6 +1,11 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/breeze/compare/v2.3.1...2.x)
+## [Unreleased](https://github.com/laravel/breeze/compare/v2.3.2...2.x)
+
+## [v2.3.2](https://github.com/laravel/breeze/compare/v2.3.1...v2.3.2) - 2025-01-21
+
+* [2.x] Unpin typescript version for Inertia Vue stack by [@reyberyturiaga](https://github.com/reyberyturiaga) in https://github.com/laravel/breeze/pull/447
+* Missing type declaration add to NewPasswordController.php by [@ashokbaruaakas](https://github.com/ashokbaruaakas) in https://github.com/laravel/breeze/pull/449
 
 ## [v2.3.1](https://github.com/laravel/breeze/compare/v2.3.0...v2.3.1) - 2025-01-13
 
