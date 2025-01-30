@@ -401,7 +401,7 @@ trait InstallsInertiaStacks
             $this->runCommands(['pnpm install', 'pnpm run build']);
         } elseif (file_exists(base_path('yarn.lock'))) {
             $this->runCommands(['yarn install', 'yarn run build']);
-        }  elseif (file_exists(base_path('bun.lockb')) || file_exists(base_path('bun.lock'))) {
+        } elseif (file_exists(base_path('bun.lockb')) || file_exists(base_path('bun.lock'))) {
             $this->runCommands(['bun install', 'bun run build']);
         } elseif (file_exists(base_path('deno.lock'))) {
             $this->runCommands(['deno install', 'deno task build']);
