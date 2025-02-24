@@ -1,6 +1,10 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/breeze/compare/v2.3.4...2.x)
+## [Unreleased](https://github.com/laravel/breeze/compare/v2.3.5...2.x)
+
+## [v2.3.5](https://github.com/laravel/breeze/compare/v2.3.4...v2.3.5) - 2025-02-19
+
+* Supports Laravel 12 by [@crynobone](https://github.com/crynobone) in https://github.com/laravel/breeze/pull/451
 
 ## [v2.3.4](https://github.com/laravel/breeze/compare/v2.3.3...v2.3.4) - 2025-02-11
 
