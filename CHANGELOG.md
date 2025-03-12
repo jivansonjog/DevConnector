@@ -1,6 +1,10 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/breeze/compare/v2.3.5...2.x)
+## [Unreleased](https://github.com/laravel/breeze/compare/v2.3.6...2.x)
+
+## [v2.3.6](https://github.com/laravel/breeze/compare/v2.3.5...v2.3.6) - 2025-03-06
+
+* Updated Volt version to ^1.7.0 by [@MrPunyapal](https://github.com/MrPunyapal) in https://github.com/laravel/breeze/pull/471
 
 ## [v2.3.5](https://github.com/laravel/breeze/compare/v2.3.4...v2.3.5) - 2025-02-19
 
